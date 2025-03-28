@@ -1,13 +1,12 @@
 {
-  "title": "Care țări UE oferă cele mai bune perspective de angajare?",
-  "subtitle": "Creșterea viitoare a ocupării forței de muncă în aceste țări în perioada 2022-2035 este estimată la 5,6%.",
+  "title": "Care este ponderea energiei regenerabile în mixul energetic al UE?",
+  "subtitle": "Ponderea energiei produse din surse regenerabile în Uniunea Europeană în 2023 este de 24,5%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Suedia, Finlanda și Danemarca au avut cele mai mari ponderi de SRE în rândul statelor membre în 2023, datorită industriilor hidro puternice (Suedia și Finlanda), a energiei eoliene și a utilizării pe scară largă a biocombustibililor solizi pentru termoficare.",
   "textSourceDescription": "Sursă",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accesați datele",
-  "extraInfo_DE": "Germania accelerează lansarea energiei regenerabile, țintește 80% energie curată până în 2030",
-  "extraInfo_FR": "Parlamentul francez aprobă un proiect de lege major de reformă a imigrației pe fondul protestelor la nivel național",
   "legend1": "Nu există date disponibile",
+  "customUnitLabel": "produs din surse regenerabile",
   "tooltipExtraInfoLabel": "Click aici"
 }
