@@ -1,13 +1,12 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kui suur on taastuvenergia osa ELi energiaallikate valikus?",
+  "subtitle": "Taastuvatest allikatest toodetud energia osakaal Euroopa Liidus on 2023. aastal 24,5%.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
+  "textNote": "Rootsis, Soomes ja Taanis oli 2023. aastal liikmesriikidest suurim taastuvenergia osakaal tänu tugevale hüdrotööstusele (Rootsi ja Soome), tuuleenergiale ja tahkete biokütuste laialdasele kasutamisele kaugküttes.",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
   "legend1": "Andmed puuduvad",
+  "customUnitLabel": "toodetud taastuvast allikast",
   "tooltipExtraInfoLabel": "Klõpsake siin"
 }
