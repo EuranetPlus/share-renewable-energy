@@ -1,13 +1,12 @@
 {
-  "title": "Quali paesi dell'UE offrono le migliori prospettive di occupazione?",
-  "subtitle": "Si stima che la crescita futura dell'occupazione in questi paesi nel periodo 2022-2035 sarà del 5,6%.",
+  "title": "Qual è la quota di energia rinnovabile nel mix energetico dell’UE?",
+  "subtitle": "La quota di energia prodotta da fonti rinnovabili nell'Unione Europea nel 2023 sarà del 24,5%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "Nel 2023, Svezia, Finlandia e Danimarca hanno registrato le quote di energie rinnovabili più elevate tra gli Stati membri, grazie alla solidità del settore idroelettrico (Svezia e Finlandia), all'energia eolica e all'ampio utilizzo di biocarburanti solidi per il teleriscaldamento.",
   "textSourceDescription": "Fonte",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accedi ai dati",
-  "extraInfo_DE": "La Germania accelera il lancio delle energie rinnovabili, puntando all'80% di energia pulita entro il 2030",
-  "extraInfo_FR": "Il Parlamento francese approva un importante disegno di legge sulla riforma dell'immigrazione tra le proteste nazionali",
   "legend1": "Nessun dato disponibile",
+  "customUnitLabel": "prodotto da fonti rinnovabili",
   "tooltipExtraInfoLabel": "clicca qui"
 }
