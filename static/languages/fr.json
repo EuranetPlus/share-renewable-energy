@@ -1,13 +1,12 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Quelle est la part des énergies renouvelables dans le mix énergétique de l’UE ?",
+  "subtitle": "La part de l’énergie produite à partir de sources renouvelables dans l’Union européenne en 2023 est de 24,5 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "La Suède, la Finlande et le Danemark avaient les parts d’énergies renouvelables les plus élevées parmi les États membres en 2023 en raison de la vigueur des industries hydrauliques (Suède et Finlande), de l’énergie éolienne et de l’utilisation généralisée de biocarburants solides pour le chauffage urbain.",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
+  "customUnitLabel": "produit à partir de sources renouvelables",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
