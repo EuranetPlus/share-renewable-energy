@@ -1,13 +1,12 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "X'inhu s-sehem tal-enerġija rinnovabbli fit-taħlita tal-enerġija tal-UE?",
+  "subtitle": "Is-sehem tal-enerġija prodotta minn sorsi rinnovabbli fl-Unjoni Ewropea fl-2023 huwa 24.5%.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
+  "textNote": "L-Iżvezja, il-Finlandja u d-Danimarka kellhom l-ogħla ishma ta’ RES fost l-Istati Membri fl-2023 minħabba industriji idro b’saħħithom (l-Isvezja u l-Finlandja), l-enerġija mir-riħ u l-użu wiesa’ ta’ bijokarburanti solidi għat-tisħin distrettwali.",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
   "legend1": "L-ebda dejta disponibbli",
+  "customUnitLabel": "prodott minn sors rinnovabbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
