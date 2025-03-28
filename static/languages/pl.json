@@ -1,13 +1,12 @@
 {
-  "title": "Które kraje UE oferują najlepsze perspektywy zatrudnienia?",
-  "subtitle": "Szacuje się, że przyszły wzrost zatrudnienia w tych krajach w latach 2022–2035 wyniesie 5,6%.",
+  "title": "Jaki jest udział energii odnawialnej w miksie energetycznym UE?",
+  "subtitle": "Udział energii wytwarzanej ze źródeł odnawialnych w Unii Europejskiej w 2023 roku wyniesie 24,5%.",
   "textNoteDescription": "Notatka",
-  "textNote": "sdchdc",
+  "textNote": "W 2023 r. Szwecja, Finlandia i Dania miały najwyższy udział OZE wśród państw członkowskich ze względu na silny przemysł hydroenergetyczny (Szwecja i Finlandia), energię wiatrową i szerokie wykorzystanie stałych biopaliw do ogrzewania sieciowego.",
   "textSourceDescription": "Źródło",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Uzyskaj dostęp do danych",
-  "extraInfo_DE": "Niemcy przyspieszają wdrażanie energii odnawialnej, dążąc do 80% czystej energii do 2030 r.",
-  "extraInfo_FR": "Parlament francuski zatwierdza projekt ustawy o dużej reformie imigracyjnej w obliczu ogólnokrajowych protestów",
   "legend1": "Brak dostępnych danych",
+  "customUnitLabel": "wyprodukowano ze źródła odnawialnego",
   "tooltipExtraInfoLabel": "Kliknij tutaj"
 }
