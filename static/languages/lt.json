@@ -1,13 +1,12 @@
 {
-  "title": "Kurios ES šalys siūlo geriausias įsidarbinimo perspektyvas?",
-  "subtitle": "Skaičiuojama, kad būsimas užimtumo augimas šiose šalyse 2022–2035 m. sieks 5,6 proc.",
+  "title": "Kokią atsinaujinančios energijos dalį sudaro ES energijos šaltiniai?",
+  "subtitle": "Energijos, pagamintos iš atsinaujinančių šaltinių, dalis Europos Sąjungoje 2023 metais sudaro 24,5 proc.",
   "textNoteDescription": "Pastaba",
-  "textNote": "sdchdc",
+  "textNote": "Švedija, Suomija ir Danija turėjo didžiausią AEI dalį tarp valstybių narių 2023 m. dėl stiprios vandens pramonės (Švedijoje ir Suomijoje), vėjo energijos ir plataus kietojo biokuro naudojimo centralizuotam šildymui.",
   "textSourceDescription": "Šaltinis",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostatas",
   "linkDataAccessDescription": "Pasiekite duomenis",
-  "extraInfo_DE": "Vokietija paspartina atsinaujinančios energijos diegimą ir siekia 80 % švarios energijos iki 2030 m.",
-  "extraInfo_FR": "Prancūzijos parlamentas, kilus protestams visoje šalyje, patvirtino pagrindinį imigracijos reformos įstatymo projektą",
   "legend1": "Nėra duomenų",
+  "customUnitLabel": "pagamintas iš atsinaujinančių šaltinių",
   "tooltipExtraInfoLabel": "Spauskite čia"
 }
