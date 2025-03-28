@@ -1,13 +1,12 @@
 {
-  "title": "Hvilke EU-lande har de bedste beskæftigelsesmuligheder?",
-  "subtitle": "Fremtidig vækst i beskæftigelsen i disse lande i 2022-2035 anslås til 5,6 %.",
+  "title": "Hvad er andelen af vedvarende energi i EU’s energimix?",
+  "subtitle": "Andelen af energi produceret fra vedvarende energikilder i EU i 2023 er 24,5 %.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
+  "textNote": "Sverige, Finland og Danmark havde de højeste VEK-andele blandt medlemslandene i 2023 på grund af stærke vandkraftindustrier (Sverige og Finland), vindkraft og bred brug af fast biobrændsel til fjernvarme.",
   "textSourceDescription": "Kilde",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få adgang til data",
-  "extraInfo_DE": "Tyskland fremskynder udrulningen af vedvarende energi, sigter mod 80 % ren strøm inden 2030",
-  "extraInfo_FR": "Det franske parlament godkender lovforslaget om større immigrationsreformer under landsdækkende protester",
+  "textSource": "Eurostat",
+  "linkDataAccessDescription": "Få adgang til dataene",
   "legend1": "Ingen tilgængelige data",
+  "customUnitLabel": "produceret fra vedvarende energikilder",
   "tooltipExtraInfoLabel": "Klik her"
 }
