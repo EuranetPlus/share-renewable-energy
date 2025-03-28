@@ -1,13 +1,12 @@
 {
-  "title": "Katere države EU ponujajo najboljše zaposlitvene možnosti?",
-  "subtitle": "Prihodnja rast zaposlenosti v teh državah v letih 2022–2035 je ocenjena na 5,6 %.",
+  "title": "Kakšen je delež obnovljivih virov energije v energetski mešanici EU?",
+  "subtitle": "Delež energije, proizvedene iz obnovljivih virov v Evropski uniji leta 2023 znaša 24,5 %.",
   "textNoteDescription": "Opomba",
-  "textNote": "sdchdc",
+  "textNote": "Švedska, Finska in Danska so imele leta 2023 največje deleže OVE med državami članicami zaradi močne hidroindustrije (Švedska in Finska), vetrne energije in široke uporabe trdnih biogoriv za daljinsko ogrevanje.",
   "textSourceDescription": "Vir",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Dostop do podatkov",
-  "extraInfo_DE": "Nemčija pospešuje uvedbo obnovljive energije, cilj je 80 % čiste energije do leta 2030",
-  "extraInfo_FR": "Francoski parlament je med protesti po vsej državi potrdil predlog zakona o veliki reformi priseljevanja",
   "legend1": "Ni podatkov",
+  "customUnitLabel": "proizvedeno iz obnovljivega vira",
   "tooltipExtraInfoLabel": "Kliknite tukaj"
 }
