@@ -1,13 +1,12 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jaký je podíl obnovitelné energie v energetickém mixu EU?",
+  "subtitle": "Podíl energie vyrobené z obnovitelných zdrojů v Evropské unii v roce 2023 činí 24,5 %.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
+  "textNote": "Švédsko, Finsko a Dánsko měly v roce 2023 nejvyšší podíly OZE mezi členskými státy díky silnému vodnímu průmyslu (Švédsko a Finsko), větrné energii a širokému používání pevných biopaliv pro dálkové vytápění.",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
   "legend1": "Nejsou k dispozici žádné údaje",
+  "customUnitLabel": "vyrobené z obnovitelných zdrojů",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
