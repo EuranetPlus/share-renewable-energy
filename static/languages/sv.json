@@ -1,13 +1,12 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur stor är andelen förnybar energi i EU:s energimix?",
+  "subtitle": "Andelen energi som produceras från förnybara källor i Europeiska unionen år 2023 är 24,5 %.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
+  "textNote": "Sverige, Finland och Danmark hade de högsta andelarna förnybara energikällor bland medlemsstaterna 2023 på grund av starka vattenkraftsindustrier (Sverige och Finland), vindkraft och omfattande användning av fasta biobränslen för fjärrvärme.",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
   "legend1": "Inga data tillgängliga",
+  "customUnitLabel": "produceras från förnybara källor",
   "tooltipExtraInfoLabel": "Klicka här"
 }
