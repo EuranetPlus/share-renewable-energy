@@ -1,13 +1,12 @@
 {
-  "title": "Mitkä EU-maat tarjoavat parhaat työllisyysnäkymät?",
-  "subtitle": "Näissä maissa tulevaisuudessa työllisyyden kasvun arvioidaan olevan 5,6 % vuosina 2022-2035.",
+  "title": "Mikä on uusiutuvan energian osuus EU:n energiavalikoimasta?",
+  "subtitle": "Uusiutuvista lähteistä tuotetun energian osuus Euroopan unionissa vuonna 2023 on 24,5 %.",
   "textNoteDescription": "Huom",
-  "textNote": "sdchdc",
+  "textNote": "Ruotsissa, Suomessa ja Tanskassa uusiutuvien energialähteiden osuus oli jäsenvaltioista korkein vuonna 2023, mikä johtui vahvasta vesiteollisuudesta (Ruotsi ja Suomi), tuulivoimasta ja kiinteiden biopolttoaineiden laajasta käytöstä kaukolämmössä.",
   "textSourceDescription": "Lähde",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat",
   "linkDataAccessDescription": "Käytä tietoja",
-  "extraInfo_DE": "Saksa nopeuttaa uusiutuvan energian käyttöönottoa ja tavoittelee 80 % puhdasta sähköä vuoteen 2030 mennessä",
-  "extraInfo_FR": "Ranskan parlamentti hyväksyi suuren maahanmuuttouudistuksen valtakunnallisten mielenosoitusten keskellä",
   "legend1": "Tietoja ei ole saatavilla",
+  "customUnitLabel": "valmistettu uusiutuvista lähteistä",
   "tooltipExtraInfoLabel": "Klikkaa tästä"
 }
