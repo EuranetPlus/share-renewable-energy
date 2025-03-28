@@ -437,7 +437,7 @@ export const mapConfig = writable({
   "colorBarFirstValue": "0",
   "colorBarLastValue": "1",
   "customUnitLabelAvailable": true,
-  "customUnitLabel": "produced from renweable source",
+  "customUnitLabel": "produced from renewable source",
   "tooltipExtraInfoLabel": "Click here",
   "translate": {
     "title": "What is the share of renewable energy in the EU’s energy mix?",
